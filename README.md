@@ -1,11 +1,11 @@
 # BigDataConaiisi2020
 Para la ejecución de estos programas se requiere de la instalación previa de dos librerias.
 
-Matplotlib
+## Matplotlib
 ```bash
 $pip install matplotlib
 ```
-Prophet
+## Prophet
 ```bash
 $ pip install pystan==2.19.1.1
 $
