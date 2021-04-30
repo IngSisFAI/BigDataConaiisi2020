@@ -14,7 +14,7 @@ $ pip install prophet
 Una vez instaladas las librerias, realizar la ejecución de acuerdo a los tutoriales brindados en el cursado de la práctica.
 Antes de ejecutar el código en Python modificar la dirección de la fuentes de acuerdo a la ubicación en sus propias carpetas.
 Las fuentes son:
-	*CONAIISI - medidas .csv
-	*CONAIISI - diarios .csv
-	*CONAIISI - global con formato fecha .csv
+	* CONAIISI - medidas .csv
+	* CONAIISI - diarios .csv
+	* CONAIISI - global con formato fecha .csv
 	
