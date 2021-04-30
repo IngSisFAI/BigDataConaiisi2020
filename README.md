@@ -11,7 +11,7 @@ $ pip install pystan==2.19.1.1
 $
 $ pip install prophet
 ```
-Una vez instaladas las librerias, realizar la ejecución de acuerdo a los tutoriales brindados en el cursado de la práctica.
+Una vez instaladas las librerias, realizar la ejecución de acuerdo a los tutoriales brindados en el cursado para la práctica (hdfs, pandas, hadoop, pyspark).
 Antes de ejecutar el código en Python modificar la dirección de la fuentes de acuerdo a la ubicación en sus propias carpetas.
 
 Las fuentes se encuentran en la carpeta Datasets y son:
